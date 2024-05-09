@@ -6,6 +6,8 @@ public class B {
 		
 		System.out.println("Dev2");
 		
+		System.out.println("Dev2 added some lines of code");
+		
 	}
 
 }
